@@ -1,0 +1,9 @@
+C:\Users\usuario\Documents\SharpDevelop Projects\Trabajo_Final_2023\Trabajo_Final_2023\bin\Debug\Trabajo_Final_2023.exe.config
+C:\Users\usuario\Documents\SharpDevelop Projects\Trabajo_Final_2023\Trabajo_Final_2023\bin\Debug\Trabajo_Final_2023.exe
+C:\Users\usuario\Documents\SharpDevelop Projects\Trabajo_Final_2023\Trabajo_Final_2023\bin\Debug\Trabajo_Final_2023.pdb
+C:\Users\usuario\Documents\SharpDevelop Projects\Trabajo_Final_2023\Trabajo_Final_2023\obj\Debug\Trabajo_Final_2023.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\SharpDevelop Projects\Trabajo_Final_2023\Trabajo_Final_2023\obj\Debug\Trabajo_Final_2023.exe
+C:\Users\usuario\Documents\SharpDevelop Projects\Trabajo_Final_2023\Trabajo_Final_2023\obj\Debug\Trabajo_Final_2023.pdb
+C:\Users\usuario\Documents\SharpDevelop Projects\Trabajo_Final_2023\Trabajo_Final_2023\Trabajo_Final_2023\obj\Debug\Trabajo_Final_2023.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\SharpDevelop Projects\Trabajo_Final_2023\Trabajo_Final_2023\Trabajo_Final_2023\obj\Debug\Trabajo_Final_2023.exe
+C:\Users\usuario\Documents\SharpDevelop Projects\Trabajo_Final_2023\Trabajo_Final_2023\Trabajo_Final_2023\obj\Debug\Trabajo_Final_2023.pdb
